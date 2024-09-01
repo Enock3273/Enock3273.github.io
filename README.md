@@ -42,7 +42,7 @@
 			<li>Email: <a href="#">myworkplace@gmail.com</a></li>
 			<li>Phone: 0702716665</li>
 			<li>LinkedIn: <a href="#">(link unavailable)</a></li>
-			<li>GitHub: <a href="(link unavailable)">(link unavailable)</a></li>
+			<li>GitHub: <a href="https://github.com/Enock3273/Enock3273.github.io.git">(link unavailable)</a></li>
 		</ul>
 	</header>
 	<main>
